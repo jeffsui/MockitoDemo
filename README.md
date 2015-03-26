@@ -8,4 +8,4 @@
 
 
 [1]:http://java.dzone.com/articles/getting-started-mocking-java
-[2]:http://my.oschina.net/dlpinghailinfeng/admin/edit-blog?blog=377736
+[2]:http://my.oschina.net/dlpinghailinfeng/blog/377736
